@@ -1,2 +1,0 @@
-4/1/2017 / Makes the led blink at random speeds: setup : fastBlip : slowBlip : loop //
-First program, makes use of functions being called on a random(min,max) loop to either run fastBlip or slowBlip.
