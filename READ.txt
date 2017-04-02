@@ -1,2 +1,2 @@
-4/1/2017 / Makes the led blink at random speeds and cycles the rainbow: setup : loop //
+4/1/2017 / Makes the led blink at random speeds and cycles the rainbow: setup : setColor : loop //
 Second program, makes use of an RGB led to create new colors and cycle at various speeds.
