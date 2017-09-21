@@ -1,0 +1,2 @@
+4/1/2017 / Makes the led blink and cycles the rainbow. Also has variable speed dependent on button presses: setup : setColor : colorCycle :  loop //
+Third program, makes use of 2 pushbuttons to cycle the speed at which the led displays colors of the rainbow. If a different button is pressed then the direction in the rainbow is flipped.
